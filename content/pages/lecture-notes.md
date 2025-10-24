@@ -274,26 +274,26 @@ Amemiya, Takeshi. _Advanced Econometrics_. Cambridge, MA: Harvard University Pre
 
 Buchinsky, Moshe. "Changes in the U.S. Wage Structure 1963-1987: Application of Quantile Regression." _Econometrica_ 62, no. 2 (March 1994): 405-458.
 
-Cameron, Adrian Colin, and Pravin K. Trivedi. {{% resource_link "5bc2406b-7448-49c9-9a0a-1a3667a06126" "_Microeconometrics: Methods and Applications_" %}}. New York, NY: Cambridge University Press, 2005. ISBN: 9780521848053.
+Cameron, Adrian Colin, and Pravin K. Trivedi. [_Microeconometrics: Methods and Applications_](http://cameron.econ.ucdavis.edu/mmabook/mma.html). New York, NY: Cambridge University Press, 2005. ISBN: 9780521848053.
 
-Chernozhukov, Victor, and Han Hong. "{{% resource_link "176e2eae-33ea-4938-be6e-6f9d11f88426" "An MCMC Approach to Classical Estimation" %}}." _Journal of Econometrics_ 115, no. 2 (August 2003): 293-346.
+Chernozhukov, Victor, and Han Hong. "[An MCMC Approach to Classical Estimation](http://www.sciencedirect.com/science/article/pii/S0304407603001003)." _Journal of Econometrics_ 115, no. 2 (August 2003): 293-346.
 
-DeGroot, Morris H., and Mark J. Schervish. {{% resource_link "912be70e-4726-4d4c-90ab-7a45659ff5ce" "_Probability and Statistics_" %}}. 3rd ed. Boston, Pearson Education, 2001.
+DeGroot, Morris H., and Mark J. Schervish. [_Probability and Statistics_](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook). 3rd ed. Boston, Pearson Education, 2001.
 
-Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. ( {{% resource_link "1c3b18fa-99bf-4008-a866-36be59d663f9" "PDF" %}})
+Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. ( [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
 
-Hayashi, Fumio. {{% resource_link "33e1a125-89b0-42ed-9b1d-918b4c3e43d8" "_Econometrics_" %}}. Princeton, NJ: Princeton University Press, 2000. ISBN: 9780691010182.
+Hayashi, Fumio. [_Econometrics_](http://fhayashi.fc2web.com/hayashi_econometrics.htm). Princeton, NJ: Princeton University Press, 2000. ISBN: 9780691010182.
 
-Horowitz, Joel L. "{{% resource_link "44ff7703-52d7-475e-8865-fe58a7f8bfcd" "The Bootstrap" %}}." In _Handbook of Econometrics_. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 52, pp. 3159-3228. ISBN: 9780444823403.
+Horowitz, Joel L. "[The Bootstrap](http://dx.doi.org/10.1016/S1573-4412(01)05005-X)." In _Handbook of Econometrics_. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 52, pp. 3159-3228. ISBN: 9780444823403.
 
 Koenker, Roger, and Kevin F. Hallock. "Quantile Regression." _The Journal of Economic Perspectives_ 15, no. 4 (2001): 143-156.
 
-Newey, Whitney K., and Daniel McFadden. "{{% resource_link "b7e4b258-b9ec-4854-8a40-fee2a96fcc27" "Large Sample Estimation and Hypothesis Testing" %}}." In _Handbook of Econometrics_. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
+Newey, Whitney K., and Daniel McFadden. "[Large Sample Estimation and Hypothesis Testing](http://dx.doi.org/10.1016/S1573-4412(05)80005-4)." In _Handbook of Econometrics_. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
 
-James L. Powell. "{{% resource_link "d4ebd656-b23a-4602-82bd-2f4376908d65" "Least Absolute Deviations Estimation for the Censored Regression Model" %}}." _Journal of Econometrics_ 25, no. 3 (July 1984): 303-325.
+James L. Powell. "[Least Absolute Deviations Estimation for the Censored Regression Model](http://dx.doi.org/10.1016/0304-4076(84)90004-6)." _Journal of Econometrics_ 25, no. 3 (July 1984): 303-325.
 
-Ruud, Paul A. {{% resource_link "2e16d0d8-db86-4ec2-91fe-a40e7e45d6ba" "_An Introduction to Classical Econometric Theory_" %}}. New York, NY: Oxford University Press, 2000. ISBN: 9780195111644.
+Ruud, Paul A. [_An Introduction to Classical Econometric Theory_](http://ukcatalogue.oup.com/product/9780195111644.do). New York, NY: Oxford University Press, 2000. ISBN: 9780195111644.
 
 van der Vaart, A. W. _Asymptotic Statistics_. Cambridge, U. K.: Cambridge University Press, 1998. ISBN: 9780521496032.
 
-Wooldridge, Jeffrey M. {{% resource_link "762fbf13-5142-4a7c-97cd-1ebe081fe09f" "_Econometric Analysis of Cross Section and Panel Data_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, 2001, ISBN: 9780262232197.)
+Wooldridge, Jeffrey M. [_Econometric Analysis of Cross Section and Panel Data_](http://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data). 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, 2001, ISBN: 9780262232197.)
